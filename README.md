@@ -10,7 +10,7 @@ The top package is called ‘waza’.
 
 Import the waza package in your program. 
 
-'''import waza.*;'''
+```import waza.*;```
 
 
 
